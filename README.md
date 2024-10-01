@@ -7,7 +7,7 @@ Adding stake is two step process: first you send a stake and eventually pool nee
 
 All pools have different deposit fees and minimum stake amounts, check out information about current deposit fees.
 
-To send stake send a message with a comment `Stake` (capitalization is important) with value of `desired stake` + `deposit fee`.
+To send stake send a message with a comme` (capitalization is important) with value of `desired stake` + `deposit fee`.
 
 ## Withdraw stake
 Withdrawal also two step process: first you need to request withdrawal and then when withdrawal solidify, you can repeat command to withdraw result. Sometimes you can withdraw immediatelly.
